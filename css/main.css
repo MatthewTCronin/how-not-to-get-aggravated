@@ -1,1 +1,64 @@
+/*
+0123456789abcdef
+*/
 
+/*Headings*/
+
+body{
+  background-color:red;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: verdana, tahoma, arial, sans-serif;
+  font-style: none;
+  color: yellow; <span style="style: italic">not</span>;
+  }
+h2{
+  text-align: left;
+  text-transform: none;
+  font-family: baskerville, georgia, times new roman, serif;
+  font-style: none;
+  color: yellow;
+}
+h3{
+  text-align: center;
+  text-transform: none;
+  font-family: baskerville, georgia, times new roman, serif;
+  font-style: italic;
+  color: lightblue;
+}
+
+/*Paragraph*/
+  
+  p1{
+   text-align: left;
+  text-transform: none;
+  font-family: baskerville, georgia, times new roman, serif;
+  font-style: none;
+  color: yellow; 
+  }
+p2{
+  text-align: center;
+  text-transform: none;
+  font-family: baskerville, georgia, times new roman, serif;
+  font-style: italic;
+  color: lightblue;
+}
+ol{
+  text-align: left;
+  text-transform: none;
+  font-family: baskerville, georgia, times new roman, serif;
+  font-style: none;
+  color: yellow; 
+}
+
+/* Links */
+a{
+text-align: center;
+  text-transform: none;
+  text-decoration: underline;
+  font-family: verdana, tahoma, arial, sans-serif;
+  font-style: none;
+  color: lightblue;}
