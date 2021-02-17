@@ -6,6 +6,9 @@
 
 body{
   background-color:red;
+  max-width:28em;
+  padding:10%;
+  margin: auto;
 }
 
 h1{
