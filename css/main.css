@@ -65,3 +65,8 @@ text-align: center;
   font-family: verdana, tahoma, arial, sans-serif;
   font-style: none;
   color: lightblue;}
+
+dl dt{
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
