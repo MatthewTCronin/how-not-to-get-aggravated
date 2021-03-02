@@ -35,14 +35,15 @@ h3{
 
 /*Paragraph*/
   
-  p1{
+#intro{
    text-align: left;
   text-transform: none;
-  font-family: baskerville, georgia, times new roman, serif;
-  font-style: none;
-  color: yellow; 
-  }
-p2{
+  font-family: baskerville, georgia, times new roma, sans-serif;
+    font-style: normal;
+    color: yellow;
+}
+  
+p{
   text-align: center;
   text-transform: none;
   font-family: baskerville, georgia, times new roman, serif;
