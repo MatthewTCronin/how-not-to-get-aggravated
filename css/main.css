@@ -68,7 +68,7 @@ ol{
   position:relative;
 }
 
-#key-take::before{
+#key-take::after{
   content:"";
   max-width: 50%;
   max-height: 50%;
