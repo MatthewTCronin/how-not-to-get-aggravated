@@ -58,6 +58,26 @@ ol{
   color: yellow; 
 }
 
+#key-take::before{
+  content:"";
+  max-width: 50%;
+  max-height: 50%;
+    border-top:solid yellow;
+    border-right:solid yellow;
+    display: block;
+  position:relative;
+}
+
+#key-take::before{
+  content:"";
+  max-width: 50%;
+  max-height: 50%;
+    border-bottom:solid yellow;
+    border-left:solid yellow;
+    display: block;
+  position:relative;
+}
+
 /* Links */
 a{
 text-align: center;
