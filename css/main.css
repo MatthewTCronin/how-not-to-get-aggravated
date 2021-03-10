@@ -67,7 +67,7 @@ ol{
     border-top:solid yellow;
     border-right:solid yellow;
     display: block;
-  position:relative;
+  position:relative right;
 }
 
 #key-take::after{
@@ -79,7 +79,7 @@ ol{
     border-bottom:solid yellow;
     border-left:solid yellow;
     display: block;
-  position:relative;
+  position:relative left;
 }
 
 /* Links */
