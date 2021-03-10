@@ -60,6 +60,8 @@ ol{
 
 #key-take::before{
   content:"";
+  padding-top: 2em;
+  padding-right: 2em;
   max-width: 50%;
   max-height: 50%;
     border-top:solid yellow;
@@ -70,6 +72,8 @@ ol{
 
 #key-take::after{
   content:"";
+  padding-bottom: 2em;
+  padding-left: 2em;
   max-width: 50%;
   max-height: 50%;
     border-bottom:solid yellow;
