@@ -5,7 +5,7 @@
 /*Headings*/
 
 body{
-  background-color:red;
+  background-color:#E50000;
   max-width:28em;
   padding:10%;
   margin: auto;
@@ -16,7 +16,7 @@ h1{
   text-transform: uppercase;
   font-family: verdana, tahoma, arial, sans-serif;
   font-style: none;
-  color: yellow; <span style="style: italic">not</span>;
+  color: yellow; <span style="style: italic">not</span>>;
   }
 h2{
   text-align: left;
@@ -30,7 +30,7 @@ h3{
   text-transform: none;
   font-family: baskerville, georgia, times new roman, serif;
   font-style: italic;
-  color: lightblue;
+  color: #F0F8FA;
 }
 
 /*Paragraph*/
@@ -48,7 +48,7 @@ p{
   text-transform: none;
   font-family: baskerville, georgia, times new roman, serif;
   font-style: italic;
-  color: lightblue;
+  color: #F0F8FA;
 }
 ol{
   text-align: left;
@@ -85,7 +85,7 @@ text-align: center;
   text-decoration: underline;
   font-family: verdana, tahoma, arial, sans-serif;
   font-style: none;
-  color: lightblue;}
+  color: #F0F8FA;}
 
 dl dt{
   margin-top: 1em;
