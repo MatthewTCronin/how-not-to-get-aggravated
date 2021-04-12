@@ -82,6 +82,12 @@ ol{
   position:relative left;
 }
 
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
 /* Links */
 a{
 text-align: center;
