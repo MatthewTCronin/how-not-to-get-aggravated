@@ -68,7 +68,8 @@ ol{
     border-top:solid yellow;
     border-right:solid yellow;
     display: block;
-  position:relative; right;
+  position:relative;
+  right: 20%;
 }
 
 #key-take::after{
@@ -80,7 +81,8 @@ ol{
     border-bottom:solid yellow;
     border-left:solid yellow;
     display: block;
-  position:relative; left;
+  position:relative;
+  left: 20%;
 }
 
 img {
