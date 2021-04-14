@@ -69,7 +69,7 @@ ol{
     border-right:solid yellow;
     display: block;
   position:relative;
-  right: 20%;
+  right: 60%;
 }
 
 .keytake::after{
@@ -82,7 +82,7 @@ ol{
     border-left:solid yellow;
     display: block;
   position:relative;
-  left: 20%;
+  left: 60%;
 }
 
 img {
