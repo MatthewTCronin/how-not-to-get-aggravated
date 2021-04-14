@@ -36,7 +36,7 @@ h3{
 
 /*Paragraph*/
   
-#intro{
+.intro{
    text-align: left;
   text-transform: none;
   font-family: baskerville, georgia, times new roma, sans-serif;
@@ -69,7 +69,7 @@ ol{
     border-right:solid yellow;
     display: block;
   position:relative;
-  right: 60%;
+  left: 60%;
 }
 
 .keytake::after{
@@ -82,7 +82,7 @@ ol{
     border-left:solid yellow;
     display: block;
   position:relative;
-  left: 60%;
+  right: 60%;
 }
 
 img {
