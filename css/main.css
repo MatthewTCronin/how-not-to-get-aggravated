@@ -59,7 +59,7 @@ ol{
   color: yellow; 
 }
 
-#key-take::before{
+.keytake::before{
   content:"";
   padding-top: 2em;
   padding-right: 2em;
@@ -72,7 +72,7 @@ ol{
   right: 20%;
 }
 
-#key-take::after{
+.keytake::after{
   content:"";
   padding-bottom: 2em;
   padding-left: 2em;
